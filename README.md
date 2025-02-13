@@ -11,6 +11,3 @@ Features:
 4. Animation if the player wins the puzzle.
 5. Funny scoring music.
 6. etc.
-
-
-Translated with DeepL.com (free version)
